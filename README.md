@@ -1899,7 +1899,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
 - [RPScripts FiveM Developer](https://rpscripts.net/docs/mcp/) `https://rpscripts.net/mcp`
   [![RPScripts FiveM Developer MCP connector](https://glama.ai/mcp/connectors/net.rpscripts/fivem/badges/score.svg)](https://glama.ai/mcp/connectors/net.rpscripts/fivem)
-  🔐 - Find FiveM resources, check framework compatibility, validate Lua and server.cfg, and generate jobs.
+  🔓 - Find FiveM resources, check framework compatibility, validate Lua and server.cfg, and generate jobs. Public tools need no sign-in.
 - [SECOND STRIKE](https://secondstrike.io/#/ai) `https://secondstrike-server-zgqvqzdrta-uc.a.run.app/mcp`
   [![SECOND STRIKE MCP connector](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike)
   🔓 - Real-time war game for AI agents: command a nation, sign and break pacts, climb a public ladder.
